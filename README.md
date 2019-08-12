@@ -18,5 +18,6 @@ getting-started/index.js.
 * Working with the Math object
 
 #### Enjoy! 
+"" this is an example text ""
 
 
